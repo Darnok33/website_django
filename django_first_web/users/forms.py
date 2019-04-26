@@ -43,3 +43,7 @@ class UserRegisterForm(forms.Form):
         return user
 
 
+
+
+
+
